@@ -1,0 +1,123 @@
+.foots {
+  background-image: url(../img/foots.png);
+  width: 800px;
+  height: 800px;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: -227px;
+  left: 349px;
+  z-index: 2;
+}
+
+.elipse_white {
+  background-image: url(../img/elipse_white.png);
+  background-repeat: no-repeat;
+  width: 548px;
+  height: 595px;
+  position: absolute;
+  top: 112px;
+  left: 460px;
+  -webkit-transform: rotate(3deg);
+          transform: rotate(3deg);
+}
+
+.elipse {
+  background-repeat: no-repeat;
+  background-image: url(../img/elipse.png);
+  width: 576px;
+  height: 690px;
+  position: absolute;
+  z-index: 1;
+  top: 163px;
+  left: 515px;
+}
+
+.tablets {
+  background-repeat: no-repeat;
+  background-image: url(../img/tablets.png);
+  width: 695px;
+  height: 600px;
+  position: absolute;
+  top: 478px;
+  left: 528px;
+  z-index: 3;
+}
+
+.potion {
+  background-repeat: no-repeat;
+  background-image: url(../img/potion.png);
+  width: 500px;
+  height: 514px;
+  position: absolute;
+  top: 478px;
+  z-index: 2;
+  left: 791px;
+  z-index: 2;
+}
+
+.price-tablets {
+  color: #ffffff;
+  font-family: "Roboto Bold";
+  font-size: 34px;
+  position: absolute;
+  z-index: 4;
+  padding-right: 5px;
+}
+
+.price-tablets_one {
+  top: 478px;
+  left: 874px;
+}
+
+.price-tablets_two {
+  top: 608px;
+  left: 980px;
+}
+
+.fontSize14 {
+  font-size: 34px;
+}
+
+.underlineOr {
+  background-image: url("../img/OrangeBigLine.png");
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+
+.underlineGr {
+  background-image: url("../img/GreenBigLine.png");
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+
+.boldText {
+  color: #000000;
+  font-family: "Roboto Bold";
+  font-size: 18px;
+}
+
+.smallunderlineOr {
+  background-image: url("../img/OrangeSmallLine.svg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+
+.smallunderlineGr {
+  background-image: url("../img/GreenSmallLine.svg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+
+.main-content-advantages__adaptive {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  min-width: 275px;
+}
+/*# sourceMappingURL=special.css.map */
